@@ -1,0 +1,4 @@
+{
+	"mongoURI":"mongodb+srv://dbTehuti:Pr@phet1@cluster0-i1mbk.azure.mongodb.net/test?retryWrites=true&w=majority",
+	"baseUrl": "http://localhost:3000"
+}
